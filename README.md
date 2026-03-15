@@ -63,20 +63,16 @@ Every `git commit` automatically:
 1. **Checks your branch name** — must follow the convention below
 2. **Runs lint-staged** — formats and lints only staged files
 
-**For students — your branch must be named after yourself:**
+**For Devmembers — your branch must be named after yourself:**
 
 ```
-feature/<your_name>
+feature/<your_email>
 
-# If your name is already taken, append a number:
-feature/<your_name>_1
-feature/<your_name>_2
 ```
 
 **Examples:**
 ```
-feature/nguyen_van_a
-feature/nguyen_van_a_1    ← if feature/nguyen_van_a is taken
+feature/john_doe@example.com
 ```
 
 ---
@@ -156,5 +152,7 @@ When opening your PR, fill in the provided template:
 - **Email** — the email address you used to register for DevCamp
 - **Changes** — what you built or changed
 - **Demo Video** — link or attachment of your demo recording
+
+- Naming your PR: `feat: add URL Shortener frontend assignment by <your_email>` (e.g. `feat: add URL Shortener frontend assignment by john_doe@example.com`)
 
 > PRs without a demo video will not be accepted.
