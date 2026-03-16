@@ -2,6 +2,24 @@
 
 ---
 
+## Caution
+
+Please do this assignment by yourself. Using AI should only be for generating your learning path, not for completing the assignment directly.
+
+### Example prompts to ask AI for learning guidance:
+
+1. "Given the URL Shortener frontend assignment, can you outline a step-by-step learning plan for me to follow? What topics should I study first, and what skills are most important?"
+
+2. "What are the essential React and TypeScript concepts I need to understand to build a URL shortener app from scratch? Please explain them in beginner-friendly terms."
+
+3. "How can I break down the URL Shortener assignment into smaller, manageable tasks? Can you suggest a checklist or roadmap for building the UI and integrating the API?"
+
+4. "What are some common mistakes beginners make when building a React app like this, and how can I avoid them?"
+
+5. "What are the best practices I should follow when coding with React and TypeScript?"
+
+---
+
 ## Part A: Getting Started
 
 ### About This Project
@@ -71,6 +89,7 @@ feature/<your_email>
 ```
 
 **Examples:**
+
 ```
 feature/john_doe@example.com
 ```
@@ -126,12 +145,12 @@ Connect your UI to the backend built in the **companion BE assignment** to creat
 
 ## Part D: Grading Evaluation
 
-| Criteria              | Description                                                                |
-| --------------------- | -------------------------------------------------------------------------- |
-| **UI**                | Visual accuracy compared to Figma, attention to detail                     |
-| **Functionality**     | All must-have features work correctly (input, shorten button, copy button) |
+| Criteria              | Description                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| **UI**                | Visual accuracy compared to Figma, attention to detail                                         |
+| **Functionality**     | All must-have features work correctly (input, shorten button, copy button)                     |
 | **Coding Style**      | Clean, readable code; consistent formatting; meaningful naming, utilize TypeScript effectively |
-| **Project Structure** | Logical file/folder organization; separation of concerns                   |
+| **Project Structure** | Logical file/folder organization; separation of concerns                                       |
 
 > **Important:** BE integration is **not graded** and does **not count toward your score**. It exists purely as extra practice for students who complete the BE assignment. Only the UI and frontend functionality are evaluated.
 
