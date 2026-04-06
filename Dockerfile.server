@@ -14,9 +14,6 @@ RUN yarn install --frozen-lockfile --production
 # Copy server code
 COPY src/server ./src/server
 
-# Copy environment setup if needed
-COPY .env .env.example ./
-
 # Expose port
 EXPOSE 3000
 
